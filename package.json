@@ -1,8 +1,8 @@
 {
     "name": "express-rest-api-jsm",
     "version": "1.0.0",
-    "main": "index.js",
-    "license": "MIT",
+    "description": "",
+    "main": "server.js",
     "type": "module",
     "scripts": {
         "start": "node server.js",
@@ -15,5 +15,16 @@
     },
     "devDependencies": {
         "nodemon": "^2.0.7"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ryan-Riaz/express-crud-rest-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Ryan-Riaz/express-crud-rest-api/issues"
+    },
+    "homepage": "https://github.com/Ryan-Riaz/express-crud-rest-api#readme"
 }
